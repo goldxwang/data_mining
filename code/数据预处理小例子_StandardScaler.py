@@ -1,6 +1,7 @@
 # 2.StandardScaler
 # -*- coding:utf-8 -*-
 from sklearn.preprocessing import StandardScaler
+import numpy as np
 
 X1 = [[1, 2, 3, 2],
       [4, 5, 7, 9],
@@ -24,7 +25,8 @@ print(ss.transform(X1))
 print("===fit_transform训练并标准化转换===")
 X1_train = ss.fit_transform(X1)
 print(X1_train)
-X=np.tolist(X1_train)
+#X=np.tolist(X1_train)
+X=np.tolist
 print(X)
 
 # 运行结果：
