@@ -7,7 +7,7 @@
 
 <br>
 
-# Web scraping tutorials (Python)
+# Web scraping tutorials (Python+web)
 
 In these tutorials, we will learn to build some simple but useful scrapers from scratch. Get to know how we can read web page and select sections you need or even download files.
 If you understand Chinese, you are lucky! I made Chinese video + text tutorials for all of these contents. You can find it in [莫烦Python](https://morvanzhou.github.io/).
